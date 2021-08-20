@@ -326,6 +326,7 @@ After these simulation, the two histograms (most likely fathers / single parents
 The "simulating individual" section simulates a given number of individual according to the loci and the allele frequencies in the studied population. For each individual, two gametes are randomly drawn using the frequencies provided by the user. The simulated individual number and its genotype are given. This is a way to add individuals to your data or to simulate an additionnal locus to test for the number of loci effet. Just use your favorite text editor to generate files.
 
 *** Test ***
+
 The green command "Test" allows you to check for each offspring, in your paternity analysis if a father can be find, or in a parentage analysis, if zero, one or a pair of parents can be find according to the test. The program will ask you for the paternity test type (with lod score, delta or both) and then paternity thresholds (lod score and/or delta) or single parent and parent pair thresholds. For parentage analysis, if a parent has a lod score (or a delta) exceeding the single parent threshold, it is considered as a true potential parent, and if a parent pair has a lod score (or delta) greater than the threshold and is made with two true potential parents, it is considered as a true potential parent pair. No father is assigned if there are ex-aequo scores.
 
 
@@ -451,10 +452,16 @@ __________________________________________
 We would like to thank for their very usefull help at different step of the evolution of FaMoz:
 
 Georges Koepfler
+
 Francois Lefevre
+
 Frederic Austerlitz
+
 Nikolaos Koutsias and Aikaterini Dounavi
+
 Olivier Hardy
+
 Cecile Bacles
+
 Concetta Burgarella 
 
