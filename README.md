@@ -7,7 +7,9 @@ FaMoz (an acronym for "Father/Mother") a software for parentage studies, written
 
 The software was originally available here: http://www.pierroton.inra.fr/genetics/labo/Software/Famoz/index.html
 
-On Github:
+[The cytoplasmic option is irrelevant]
+
+**On Github:**
 
 **FaMozTclTk.zip** contains all elements necessary to run the software (see the content of the more recent Famoz.help file below)
 
